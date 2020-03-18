@@ -23,7 +23,7 @@ namespace BTVNB2
                 Console.Write("Nhap so nguyen duong n: ");
                 n = int.Parse(Console.ReadLine());
                 if (n <= 0) Console.WriteLine("Nhap lai! ");
-            } while (n < 0);
+            } while (n <= 0);
             return n;
         }
         static void inputArr(int[] arr,int n)
