@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ABC\\source\\repos\\BTVNB3\\Bai3\\Bai3.csproj": {}
+    "F:\\Học tập\\BTVNC-HIT\\Day3\\Bai3\\Bai3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ABC\\source\\repos\\BTVNB3\\Bai3\\Bai3.csproj": {
+    "F:\\Học tập\\BTVNC-HIT\\Day3\\Bai3\\Bai3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ABC\\source\\repos\\BTVNB3\\Bai3\\Bai3.csproj",
+        "projectUniqueName": "F:\\Học tập\\BTVNC-HIT\\Day3\\Bai3\\Bai3.csproj",
         "projectName": "Bai3",
-        "projectPath": "C:\\Users\\ABC\\source\\repos\\BTVNB3\\Bai3\\Bai3.csproj",
+        "projectPath": "F:\\Học tập\\BTVNC-HIT\\Day3\\Bai3\\Bai3.csproj",
         "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ABC\\source\\repos\\BTVNB3\\Bai3\\obj\\",
+        "outputPath": "F:\\Học tập\\BTVNC-HIT\\Day3\\Bai3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

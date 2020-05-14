@@ -1,0 +1,11 @@
+F:\Học tập\BTVNC-HIT\Day4\Day4\bin\Debug\netcoreapp3.1\Day4.exe
+F:\Học tập\BTVNC-HIT\Day4\Day4\bin\Debug\netcoreapp3.1\Day4.deps.json
+F:\Học tập\BTVNC-HIT\Day4\Day4\bin\Debug\netcoreapp3.1\Day4.runtimeconfig.json
+F:\Học tập\BTVNC-HIT\Day4\Day4\bin\Debug\netcoreapp3.1\Day4.runtimeconfig.dev.json
+F:\Học tập\BTVNC-HIT\Day4\Day4\bin\Debug\netcoreapp3.1\Day4.dll
+F:\Học tập\BTVNC-HIT\Day4\Day4\bin\Debug\netcoreapp3.1\Day4.pdb
+F:\Học tập\BTVNC-HIT\Day4\Day4\obj\Debug\netcoreapp3.1\Day4.csprojAssemblyReference.cache
+F:\Học tập\BTVNC-HIT\Day4\Day4\obj\Debug\netcoreapp3.1\Day4.AssemblyInfoInputs.cache
+F:\Học tập\BTVNC-HIT\Day4\Day4\obj\Debug\netcoreapp3.1\Day4.AssemblyInfo.cs
+F:\Học tập\BTVNC-HIT\Day4\Day4\obj\Debug\netcoreapp3.1\Day4.dll
+F:\Học tập\BTVNC-HIT\Day4\Day4\obj\Debug\netcoreapp3.1\Day4.pdb

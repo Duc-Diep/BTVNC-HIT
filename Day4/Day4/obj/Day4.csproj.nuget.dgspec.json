@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Học tập\\BTVNC-HIT\\Day3\\Bai1\\Bai1.csproj": {}
+    "F:\\Học tập\\BTVNC-HIT\\Day4\\Day4\\Day4.csproj": {}
   },
   "projects": {
-    "F:\\Học tập\\BTVNC-HIT\\Day3\\Bai1\\Bai1.csproj": {
+    "F:\\Học tập\\BTVNC-HIT\\Day4\\Day4\\Day4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Học tập\\BTVNC-HIT\\Day3\\Bai1\\Bai1.csproj",
-        "projectName": "Bai1",
-        "projectPath": "F:\\Học tập\\BTVNC-HIT\\Day3\\Bai1\\Bai1.csproj",
+        "projectUniqueName": "F:\\Học tập\\BTVNC-HIT\\Day4\\Day4\\Day4.csproj",
+        "projectName": "Day4",
+        "projectPath": "F:\\Học tập\\BTVNC-HIT\\Day4\\Day4\\Day4.csproj",
         "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
-        "outputPath": "F:\\Học tập\\BTVNC-HIT\\Day3\\Bai1\\obj\\",
+        "outputPath": "F:\\Học tập\\BTVNC-HIT\\Day4\\Day4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

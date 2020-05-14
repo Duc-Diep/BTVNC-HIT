@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ABC\\source\\repos\\BTVNB3\\Bai2\\Bai2.csproj",
+      "projectUniqueName": "F:\\Học tập\\BTVNC-HIT\\Day3\\Bai2\\Bai2.csproj",
       "projectName": "Bai2",
-      "projectPath": "C:\\Users\\ABC\\source\\repos\\BTVNB3\\Bai2\\Bai2.csproj",
+      "projectPath": "F:\\Học tập\\BTVNC-HIT\\Day3\\Bai2\\Bai2.csproj",
       "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ABC\\source\\repos\\BTVNB3\\Bai2\\obj\\",
+      "outputPath": "F:\\Học tập\\BTVNC-HIT\\Day3\\Bai2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
