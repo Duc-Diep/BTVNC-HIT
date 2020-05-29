@@ -1,0 +1,9 @@
+F:\Học tập\C#\BTVNWInForm\BTVNWInForm\obj\Debug\BTVNWInForm.csprojAssemblyReference.cache
+F:\Học tập\C#\BTVNWInForm\BTVNWInForm\obj\Debug\BTVNWInForm.Form1.resources
+F:\Học tập\C#\BTVNWInForm\BTVNWInForm\obj\Debug\BTVNWInForm.Properties.Resources.resources
+F:\Học tập\C#\BTVNWInForm\BTVNWInForm\obj\Debug\BTVNWInForm.csproj.GenerateResource.cache
+F:\Học tập\C#\BTVNWInForm\BTVNWInForm\bin\Debug\BTVNWInForm.exe.config
+F:\Học tập\C#\BTVNWInForm\BTVNWInForm\bin\Debug\BTVNWInForm.exe
+F:\Học tập\C#\BTVNWInForm\BTVNWInForm\bin\Debug\BTVNWInForm.pdb
+F:\Học tập\C#\BTVNWInForm\BTVNWInForm\obj\Debug\BTVNWInForm.exe
+F:\Học tập\C#\BTVNWInForm\BTVNWInForm\obj\Debug\BTVNWInForm.pdb

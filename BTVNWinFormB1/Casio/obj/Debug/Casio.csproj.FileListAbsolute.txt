@@ -1,0 +1,9 @@
+F:\Học tập\C#\BTVNWInForm\Casio\bin\Debug\Casio.exe.config
+F:\Học tập\C#\BTVNWInForm\Casio\bin\Debug\Casio.exe
+F:\Học tập\C#\BTVNWInForm\Casio\bin\Debug\Casio.pdb
+F:\Học tập\C#\BTVNWInForm\Casio\obj\Debug\Casio.csprojAssemblyReference.cache
+F:\Học tập\C#\BTVNWInForm\Casio\obj\Debug\Casio.Properties.Resources.resources
+F:\Học tập\C#\BTVNWInForm\Casio\obj\Debug\Casio.csproj.GenerateResource.cache
+F:\Học tập\C#\BTVNWInForm\Casio\obj\Debug\Casio.exe
+F:\Học tập\C#\BTVNWInForm\Casio\obj\Debug\Casio.pdb
+F:\Học tập\C#\BTVNWInForm\Casio\obj\Debug\Casio.Casio.resources
